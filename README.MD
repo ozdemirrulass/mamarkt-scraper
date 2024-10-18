@@ -1,5 +1,7 @@
 # Mamarkt Scraper
 
+This go app developed for a very specific purpose and I was planning to make it more flexible however never had a chance to do it. Please review the code before using it.
+
 This Go application is designed to collect product information from various websites, scrape data from web pages, and store the information in a DynamoDB database. It uses the Colly library for collecting XML data and the Chromedp library for web scraping.
 
 This repository is the part of early stages of the actual mamarkt and it is uploaded to give a brief idea how it works. This code is from the times that I run the crawler as an AWS ECS TASK.
